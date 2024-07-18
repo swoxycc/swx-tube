@@ -1,0 +1,17 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "YouTube video downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "youtube-dl-exec": "^2.0.0",
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.2"
+  },
+  "type": "commonjs",
+  "author": "swoxycan",
+  "license": "MIT"
+}
