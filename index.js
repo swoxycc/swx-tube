@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 
 
 function rgb(r, g, b) {
-    return `\x1b[38;2;${r};${g};${b}m`; // RGB renk kodu döndür
+    return `\x1b[38;2;${r};${g};${b}m`;
 }
 
 
