@@ -16,7 +16,7 @@ SWX-Tube, videolarınızı en hızlı şekilde indirmenizi sağlayan basit ve ku
 ## 🛠 Gereksinimler
 
 - Npm Modülleri
-- Node.j
+- Node.js
 
 ## 📸 Ekran Görüntüleri
 
