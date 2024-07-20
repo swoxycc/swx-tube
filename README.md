@@ -33,8 +33,8 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ## 📞 İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz için lütfen [iletisim](https://discord.gg/kexn27mUbT) adresinden bizimle iletişime geçin.
+Herhangi bir sorunuz veya geri bildiriminiz için lütfen [iletisim](https://discord.gg/cancode) adresinden bizimle iletişime geçin.
 
 ---
 
-Made with ❤️ by [SWX-Tube Team](https://discord.gg/kexn27mUbT)
+Made with ❤️ by [Team](https://discord.gg/cancode)
