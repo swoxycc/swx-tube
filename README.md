@@ -20,7 +20,7 @@ SWX-Tube, videolarınızı en hızlı şekilde indirmenizi sağlayan basit ve ku
 
 ## 📸 Ekran Görüntüleri
 
-![Screenshot 1](https://cdn.discordapp.com/attachments/1246963243738464406/1263354606058995722/image.png?ex=6699ee2a&is=66989caa&hm=870be3de28f4183852e129ac9c801bf4496d52bcf48c01715778335d340b04b4&)
+![Screenshot 1](https://raw.githubusercontent.com/swoxycan/swx-tube/main/proje.png)
 
 ## 💡 Nasıl Kullanılır
 
