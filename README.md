@@ -33,7 +33,7 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ## 📞 İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz için lütfen [iletisim](https://discord.gg/cancode) adresinden bizimle iletişime geçin.
+Herhangi bir sorunuz veya geri bildiriminiz için lütfen [iletisim](https://discord.gg/codeart) adresinden bizimle iletişime geçin.
 
 ---
 
